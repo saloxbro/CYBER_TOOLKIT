@@ -44,7 +44,7 @@ Usage:
 
 Group Members:
 --------------
-- **BITF24M044**: Haider Ali
+- **BITF24M043**: Haider Ali
 - **BITF24M059**: Wahaj
 - **BITF24M044**: M. Salman Shahid
 
