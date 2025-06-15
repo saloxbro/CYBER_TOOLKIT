@@ -1,0 +1,26 @@
+
+--- DNS Lookup ---
+Timestamp: 2025-06-15 00:49:15
+Query:     pucit.edu.pk
+--- Results ---
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
+| MX    | alt1.aspmx.l.google.com                          (Pref: 5    ) |
+| MX    | alt2.aspmx.l.google.com                          (Pref: 5    ) |
+| MX    | aspmx.l.google.com                               (Pref: 1    ) |
+| MX    | ASPMX2.GOOGLEMAIL.com                            (Pref: 1    ) |
+| MX    | aspmx.l.google.com                               (Pref: 1    ) |
+| MX    | ASPMX2.GOOGLEMAIL.com                            (Pref: 1    ) |
+| MX    | ASPMX3.GOOGLEMAIL.com                            (Pref: 10   ) |
+| MX    | ASPMX3.GOOGLEMAIL.com                            (Pref: 10   ) |
+| MX    | alt1.aspmx.l.google.com                          (Pref: 5    ) |
+| MX    | alt1.aspmx.l.google.com                          (Pref: 5    ) |
+| MX    | alt2.aspmx.l.google.com                          (Pref: 5    ) |
+| MX    | alt2.aspmx.l.google.com                          (Pref: 5    ) |
+| TXT   | "v=spf1 include:_spf.google.com ~all"                           |
+| NS    | daisy.ns.cloudflare.com                                         |
+| NS    | zeus.ns.cloudflare.com                                          |
++-------+-----------------------------------------------------------------+
+

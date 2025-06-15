@@ -1,1 +1,448 @@
+Domain: google.com
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
+A Record: 192.178.24.174
++-------+-----------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
++-------+-----------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
++-------+-----------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
+A Record: 192.178.24.174
++-------+-----------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
++-------+-----------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
+| INFO  | No records found for the selected query type(s).      |
++-------+-----------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
+| INFO  | No records found for the selected query type(s).      |
++-------+-----------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
++-------+-----------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
++-------+-----------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+-----------------------------------------------------------------+
+| Type  |                         Value                           |
++-------+-----------------------------------------------------------------+
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
+A Record: 202.147.169.205
++-------+-----------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| INFO  | No records found for the selected query type(s).                |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, ALT1.aspmx.l.google.com                                |
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
+| NS    | zeus.ns.cloudflare.com                                          |
+| NS    | daisy.ns.cloudflare.com                                         |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
+| NS    | zeus.ns.cloudflare.com                                          |
+| NS    | daisy.ns.cloudflare.com                                         |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| INFO  | No records found for that record type. Try another.             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| INFO  | No records found for that record type. Try another.             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt2.aspmx.l.google.com                                |
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
+| NS    | zeus.ns.cloudflare.com                                          |
+| NS    | daisy.ns.cloudflare.com                                         |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| INFO  | No records found for that record type. Try another.             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| INFO  | No records found for that record type. Try another.             |
++-------+---------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| INFO  | No records found for that record type. Try another.             |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
++-------+---------------------------------------------------------------+
+
+Domain: pucit.edu.pk
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 202.147.169.205                                                 |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 1, aspmx.l.google.com                                     |
+| MX    | Pref: 1, ASPMX2.GOOGLEMAIL.com                                  |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 10, ASPMX3.GOOGLEMAIL.com                                 |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, alt1.aspmx.l.google.com                                |
+| MX    | Pref: 5, ALT2.aspmx.l.google.com                                |
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
+| NS    | zeus.ns.cloudflare.com                                          |
+| NS    | daisy.ns.cloudflare.com                                         |
++-------+---------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 192.178.24.174                                                  |
+| MX    | Pref: 10, smtp.google.com                                       |
+| TXT   | cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b |
+| TXT   | docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e                   |
+| TXT   | globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8= |
+| TXT   | facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95     |
+| TXT   | v=spf1 include:_spf.google.com ~all                             |
+| TXT   | google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o |
+| TXT   | docusign=1b0a6754-49b1-4db5-8540-d2c12664b289                   |
+| TXT   | apple-domain-verification=30afIBcvSuDV2PLX                      |
+| TXT   | onetrust-domain-verification=de01ed21f2fa4d8781cbc3ffb89cf4ef   |
+| TXT   | google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ |
+| TXT   | google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0 |
+| TXT   | MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB                     |
+| NS    | ns2.google.com                                                  |
+| NS    | ns4.google.com                                                  |
+| NS    | ns3.google.com                                                  |
+| NS    | ns1.google.com                                                  |
+| A     | 216.239.38.10                                                   |
+| AAAA  | 2001:4860:4802:38::a                                            |
+| A     | 216.239.36.10                                                   |
+| AAAA  | 2001:4860:4802:36::a                                            |
+| A     | 216.239.32.10                                                   |
+| AAAA  | 2001:4860:4802:32::a                                            |
+| A     | 216.239.34.10                                                   |
+| AAAA  | 2001:4860:4802:34::a                                            |
++-------+---------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 192.178.24.206                                                  |
+| AAAA  | 2a00:1450:4018:803::200e                                        |
+| MX    | Pref: 10, smtp.google.com                                       |
+| NS    | ns4.google.com                                                  |
+| NS    | ns2.google.com                                                  |
+| NS    | ns1.google.com                                                  |
+| NS    | ns3.google.com                                                  |
++-------+---------------------------------------------------------------+
+
+Domain: google.com
+Results:
++-------+---------------------------------------------------------------+
+| Type  | Value                                                         |
++-------+---------------------------------------------------------------+
+| A     | 192.178.24.174                                                  |
+| AAAA  | 2a00:1450:4018:806::200e                                        |
+| MX    | Pref: 10, smtp.google.com                                       |
+| NS    | ns2.google.com                                                  |
+| NS    | ns1.google.com                                                  |
+| NS    | ns3.google.com                                                  |
+| NS    | ns4.google.com                                                  |
++-------+---------------------------------------------------------------+
 
