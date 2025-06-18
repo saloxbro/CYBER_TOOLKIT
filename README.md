@@ -49,3 +49,69 @@ To compile the project:
 
    ```sh
    build.bat
+````
+
+Or, compile manually via MinGW/MSYS2:
+
+```sh
+gcc -o cyber_toolkit.exe *.c -lws2_32 -lssl -lcrypto
+```
+
+---
+
+## Usage
+
+1. **Run the executable:**
+
+   ```sh
+   cyber_toolkit.exe
+   ```
+
+2. **Use the on-screen menu** to select a tool and perform tasks.
+
+> **Tip:**
+> Results and logs are saved in local text files such as `scan_report.txt` and `dns_results.log`.
+
+---
+
+## Example Screenshot
+
+*(Insert a screenshot here!)*
+
+---
+
+## Group Members
+
+* **BITF24M043:** Haider Ali
+* **BITF24M059:** Wahaj
+* **BITF24M044:** M. Salman Shahid
+
+---
+
+## Acknowledgments
+
+This project was developed as part of a group assignment for cybersecurity coursework.
+Special thanks to all group members for their contributions.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+```
+
+---
+
+## **How To Use This**
+
+1. **Copy and paste** this markdown into your `README.md`.
+2. Fill in the screenshot and any additional info as you update your project.
+3. Keep your LICENSE file in the root folder.
+
+---
+
+**If you want a more compact or more detailed README, or want me to generate a badge or logo for you, just let me know!**
+```
