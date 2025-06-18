@@ -1,4 +1,3 @@
-# CYBER_TOOLKITAdd commentMore actions
 CYBERSECURITY TOOLKIT v1.1
 ========================================
 
@@ -34,7 +33,7 @@ Features:
    - Generates MD5 hashes for input strings.
    - Cracks MD5 hashes using a dictionary-based approach.
 
-Requirements:
+##Requirements:
 -------------
 - Windows Operating System
 - GCC Compiler (MinGW or MSYS2)
