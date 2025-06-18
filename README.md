@@ -1,7 +1,15 @@
-# CYBER_TOOLKIT
+# CYBER_TOOLKITAdd commentMore actions
+CYBERSECURITY TOOLKIT v1.1
+========================================
 
-A modular, open-source cybersecurity toolkit for Windows, developed in C.  
-Features include port scanning, DNS lookups (A, AAAA, CNAME, TXT, NS), and MD5 password hash generation and cracking.
+Project Description:
+--------------------
+The Cybersecurity Toolkit is a multi-functional program designed to assist in various cybersecurity tasks, including:
+1. Port Scanning
+2. DNS Lookup
+3. Password Cracking (MD5 Hash Generator and Dictionary Cracker)
+
+This toolkit is built using C and leverages libraries such as Winsock2, OpenSSL, and Windows APIs for network and cryptographic operations.
 
 ## Table of Contents
 - [Features](#features)
@@ -12,74 +20,48 @@ Features include port scanning, DNS lookups (A, AAAA, CNAME, TXT, NS), and MD5 p
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## Features
+Features:
+---------
+1. **Port Scanner**:
+   - Scans specified ports on a target IP address or hostname.
+   - Provides detailed results for open and closed ports.
 
-**Port Scanner**
-- Scan specific ports on any IPv4 address or hostname.
-- Multi-threaded for speed.
-- Logs open and closed ports to a report file.
+2. **DNS Lookup**:
+   - Resolves domain names to IP addresses.
+   - Supports various DNS record types (e.g., A, AAAA, CNAME, TXT, NS).
 
-**DNS Lookup**
-- Resolve domain names to IP addresses.
-- Query for multiple DNS record types: A, AAAA, CNAME, TXT, NS.
-- All results logged for later review.
+3. **Password Cracker**:
+   - Generates MD5 hashes for input strings.
+   - Cracks MD5 hashes using a dictionary-based approach.
 
-**Password Cracker / MD5 Hasher**
-- Generate MD5 hashes for any input string.
-- Crack MD5 hashes using a dictionary-based approach with a custom wordlist.
-
-## Requirements
-
+Requirements:
+-------------
 - Windows Operating System
-- GCC Compiler (MinGW or MSYS2 recommended)
-- OpenSSL Library (for cryptographic functions)
-- Winsock2 Library (for networking)
+- GCC Compiler (MinGW or MSYS2)
+- OpenSSL Library
+- Winsock2 Library
 
-## Compilation
+Compilation:
+------------
+To compile the project, run the `build.bat` file:
+1. Navigate to the project directory.
+2. Double-click `build.bat` or run it via Command Prompt:
 
-**Quick Start (using build script):**
-1. Download or clone the repository.
-2. Open Command Prompt and navigate to the project directory.
-3. Run:
-    ```sh
-    build.bat
-    ```
-    or double-click `build.bat`.
+Usage:
+------
+1. Run the compiled executable `cyber_toolkit.exe`.
+2. Follow the on-screen menu to select a tool and perform tasks.
 
-**Manual Compilation:**
-```sh
-gcc -o cyber_toolkit.exe *.c -lws2_32 -lssl -lcrypto
-Usage
-Run the program:
+Group Members:
+--------------
+- **BITF24M043**: Haider Ali
+- **BITF24M059**: Wahaj
+- **BITF24M044**: M. Salman Shahid
 
-sh
-Copy
-Edit
-cyber_toolkit.exe
-Follow the on-screen menu to select a tool:
+Acknowledgments:
+----------------
+This project was developed as part of a group assignment for cybersecurity coursework. Special thanks to all group members for their contributions.
 
-[1] Port Scanner — Scan open ports on a host
-
-[2] DNS Lookup — Perform DNS reconnaissance
-
-[3] MD5 Cracker/Hasher — MD5 hash generator and cracker
-
-Results are saved in the working directory (e.g., scan_report.txt, dns_results.log).
-
-Tip: To add more wordlists for password cracking, place your file as wordlist.txt in the project directory.
-
-Group Members
-BITF24M043: Haider Ali
-
-BITF24M059: Wahaj
-
-BITF24M044: M. Salman Shahid
-
-Acknowledgments
-This project was developed as part of a cybersecurity coursework assignment.
-Special thanks to all group members for their hard work and contributions!
-
-License
-This project is licensed under the MIT License.
-Feel free to use, modify, or redistribute this code in accordance with the license.
-For questions, improvements, or bug reports, please open an issue or pull request!
+License:
+--------
+This project is open-source and can be modified or redistributed under the terms of the MIT License.
