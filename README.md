@@ -1,8 +1,7 @@
-# CYBERSECURITY TOOLKIT
+# CYBER_TOOLKIT
 
-A multi-functional, open-source cybersecurity toolkit built in C for Windows, featuring port scanning, DNS lookup, and password cracking (MD5).
-
----
+A modular, open-source cybersecurity toolkit for Windows, developed in C.  
+Features include port scanning, DNS lookups (A, AAAA, CNAME, TXT, NS), and MD5 password hash generation and cracking.
 
 ## Table of Contents
 - [Features](#features)
@@ -13,105 +12,74 @@ A multi-functional, open-source cybersecurity toolkit built in C for Windows, fe
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
----
-
 ## Features
 
-### Port Scanner
-- Scan specified ports on a target IP address or hostname.
-- Provides detailed results for open and closed ports.
+**Port Scanner**
+- Scan specific ports on any IPv4 address or hostname.
+- Multi-threaded for speed.
+- Logs open and closed ports to a report file.
 
-### DNS Lookup
-- Resolves domain names to IP addresses.
-- Supports various DNS record types: **A, AAAA, CNAME, TXT, NS**.
+**DNS Lookup**
+- Resolve domain names to IP addresses.
+- Query for multiple DNS record types: A, AAAA, CNAME, TXT, NS.
+- All results logged for later review.
 
-### Password Cracker
-- Generates MD5 hashes for input strings.
-- Cracks MD5 hashes using a dictionary-based approach.
-
----
+**Password Cracker / MD5 Hasher**
+- Generate MD5 hashes for any input string.
+- Crack MD5 hashes using a dictionary-based approach with a custom wordlist.
 
 ## Requirements
 
 - Windows Operating System
-- GCC Compiler (MinGW or MSYS2)
-- [OpenSSL Library](https://www.openssl.org/)
-- Winsock2 Library
-
----
+- GCC Compiler (MinGW or MSYS2 recommended)
+- OpenSSL Library (for cryptographic functions)
+- Winsock2 Library (for networking)
 
 ## Compilation
 
-To compile the project:
+**Quick Start (using build script):**
+1. Download or clone the repository.
+2. Open Command Prompt and navigate to the project directory.
+3. Run:
+    ```sh
+    build.bat
+    ```
+    or double-click `build.bat`.
 
-1. **Navigate to the project directory.**
-2. Run the `build.bat` file:
-
-   ```sh
-   build.bat
-````
-
-Or, compile manually via MinGW/MSYS2:
-
+**Manual Compilation:**
 ```sh
 gcc -o cyber_toolkit.exe *.c -lws2_32 -lssl -lcrypto
-```
+Usage
+Run the program:
 
----
+sh
+Copy
+Edit
+cyber_toolkit.exe
+Follow the on-screen menu to select a tool:
 
-## Usage
+[1] Port Scanner — Scan open ports on a host
 
-1. **Run the executable:**
+[2] DNS Lookup — Perform DNS reconnaissance
 
-   ```sh
-   cyber_toolkit.exe
-   ```
+[3] MD5 Cracker/Hasher — MD5 hash generator and cracker
 
-2. **Use the on-screen menu** to select a tool and perform tasks.
+Results are saved in the working directory (e.g., scan_report.txt, dns_results.log).
 
-> **Tip:**
-> Results and logs are saved in local text files such as `scan_report.txt` and `dns_results.log`.
+Tip: To add more wordlists for password cracking, place your file as wordlist.txt in the project directory.
 
----
+Group Members
+BITF24M043: Haider Ali
 
-## Example Screenshot
+BITF24M059: Wahaj
 
-*(Insert a screenshot here!)*
+BITF24M044: M. Salman Shahid
 
----
+Acknowledgments
+This project was developed as part of a cybersecurity coursework assignment.
+Special thanks to all group members for their hard work and contributions!
 
-## Group Members
-
-* **BITF24M043:** Haider Ali
-* **BITF24M059:** Wahaj
-* **BITF24M044:** M. Salman Shahid
-
----
-
-## Acknowledgments
-
-This project was developed as part of a group assignment for cybersecurity coursework.
-Special thanks to all group members for their contributions.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-```
-
----
-
-## **How To Use This**
-
-1. **Copy and paste** this markdown into your `README.md`.
-2. Fill in the screenshot and any additional info as you update your project.
-3. Keep your LICENSE file in the root folder.
-
----
-
-**If you want a more compact or more detailed README, or want me to generate a badge or logo for you, just let me know!**
-```
+License
+This project is licensed under the MIT License.
+Feel free to use, modify, or redistribute this code in accordance with the license.
+For questions, improvements, or bug reports, please open an issue or pull request!
